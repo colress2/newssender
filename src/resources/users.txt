@@ -1,0 +1,4 @@
+1;usuario1;newssender2023;correodeusuario@gmail.com;false;false
+2;null;null;null;false;false
+3;null;null;null;false;false
+0;colress2;newssender2023;tucorreo@gmail.com;true;false
